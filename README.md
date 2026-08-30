@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+Meu nome é Aparecida Dias Calisto de Souza,
+ sou estudante de desenvolvimento de sistemas
+Apaixonada por python.
+Buscando me tornar uma desenvolvedora full stack.
+Aqui você acompnha o meu desenvolvimento como programadora.
+Contato : calistoaparecida41@gmail.com
 <!--
 **aparecidadiascalistodesouza/aparecidadiascalistodesouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
